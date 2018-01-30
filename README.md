@@ -1,2 +1,2 @@
-# hello-world
-Just another first repository
+# This is the start of something beautiful
+NOT!!!!! Just another first repository
